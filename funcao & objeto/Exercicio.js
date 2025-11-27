@@ -123,6 +123,8 @@ function Semana() {
     }
 }
 
+while (opcaoEscolhida != 0);
+
 function Pares() {
     let numero = parseInt(prompt("Digite um número inteiro: "))
 
